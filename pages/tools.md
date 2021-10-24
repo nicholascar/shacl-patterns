@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SHACL Tools"
-permalink: tools
+permalink: /tools
 ---
 ## SHACL Tools
 

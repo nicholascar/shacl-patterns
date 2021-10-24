@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cardinality"
-permalink: pattern/001
+permalink: /pattern/001
 ---
 ## Cardinality
 
