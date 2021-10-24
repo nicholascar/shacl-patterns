@@ -4,6 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-# Index Page
+# SHACL Patterns
+### Nicholas J. Car
 
-This is indeed the index
+## A pattern catalogue for [Shapes Constraint Language (SHACL)](https://www.w3.org/TR/shacl/) shapes.

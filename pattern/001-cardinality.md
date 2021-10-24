@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "News"
+title: "Cardinality"
 permalink: /pattern/001
 ---
-## The 2012 ICS Medal awarded to Peter Sadler at Riverside, California, USA
+## Cardinality
 
 The ICS Medal is awarded to Peter Sadler of the University of California-Riverside for his ground-breaking contribution to stratigraphy, naming
